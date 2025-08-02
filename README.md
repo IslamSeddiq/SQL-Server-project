@@ -17,7 +17,7 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 - Creation of clean, reporting-ready tables (e.g. `Sales2`)
 - Referential integrity enforced via constraints
 
-## Business Insights Generated
+## 📊 Business Insights Generated
 
 - Top-selling products and categories
 - Revenue by product, category, and territory
@@ -25,7 +25,7 @@ I'm a Junior Data Analyst with a passion for turning raw data into actionable in
 - Customer lifetime value analysis
 - Monthly and yearly sales performance
   
-## Tools and Skills Used 🧠
+## 🧠 Tools and Skills Used
 
 **SQL Server / SSMS**
 
